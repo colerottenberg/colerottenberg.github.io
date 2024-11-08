@@ -1,6 +1,6 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
+title: Bachelor of Science in Computer Engineering
+location: University of Florida, Gainesville (UF)
 url: http://foeberoz.gm/kuj
 institute: University of California
 date: 1970-1975
