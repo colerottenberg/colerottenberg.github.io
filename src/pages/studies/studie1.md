@@ -1,15 +1,14 @@
 ---
 title: Bachelor of Science in Computer Engineering
 location: University of Florida, Gainesville (UF)
-url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
+url: https://www.ufl.edu/
+institute: University of Florida
+date: 2020-2024
 tags:
   [
-    "Criminal Justice",
-    "Law Enforcement",
-    "Legal Studies",
-    "Public Safety",
-    "Court System",
+    "Computer Engineering",
+    "Software",
+    "Electrical Engineering",
+    "Machine Learning",
   ]
 ---
